@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "NginR")(type "KiCad")(uri "${KIPRJMOD}/NginR.pretty")(options "")(descr ""))
+)

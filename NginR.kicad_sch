@@ -1,0 +1,93 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b788b0a3-c120-4c2d-9cd0-5e95a440d484")
+	(paper "A4")
+	(title_block
+		(title "Main")
+		(rev "A")
+	)
+	(lib_symbols)
+	(sheet
+		(at 72.39 59.69)
+		(size 12.7 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5deee7fe-e2a2-4fdb-ae67-c8992395645b")
+		(property "Sheetname" "CPU"
+			(at 72.39 58.9784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CPU.kicad_sch"
+			(at 72.39 78.0546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NginR"
+				(path "/b788b0a3-c120-4c2d-9cd0-5e95a440d484"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 119.38 63.5)
+		(size 12.7 26.67)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ca3820b4-55cb-4b6a-942a-14b7e9ba5688")
+		(property "Sheetname" "Power"
+			(at 119.38 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 119.38 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "NginR"
+				(path "/b788b0a3-c120-4c2d-9cd0-5e95a440d484"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
